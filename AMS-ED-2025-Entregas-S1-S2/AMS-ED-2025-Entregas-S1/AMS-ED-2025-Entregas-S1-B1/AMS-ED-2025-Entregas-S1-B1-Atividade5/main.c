@@ -1,3 +1,13 @@
+/*----------------------------------------------------------------------------------*/
+/*   FATEC-São Caetano do Sul                 Estrutura de Dados                    */
+/*                         Id da Atividade: S1-B1-5                                 */
+/*             Objetivo: << Refatoração Restaurante (PILHA) >>                      */
+/*                                                                                  */
+/* Autores: Carolina Pichelli Souza; Fernando Alcantara D´Avila;                    */
+/*   Guilherme Xavier Zanetti; Heloísa Pichelli Souza                               */
+/*                                                                  Data:01/04/2025 */
+/*----------------------------------------------------------------------------------*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
